@@ -1,2 +1,3 @@
-# projects
-Repository for different small projects
+# Little research by LOTR
+
+I'll restore it in the future. 
