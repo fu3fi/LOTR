@@ -1,3 +1,3 @@
-# Little research by LOTR
+# Little research about LOTR
 
-I'll restore it in the future. 
+I's my simple research about lotr..
